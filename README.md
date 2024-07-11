@@ -1,7 +1,5 @@
 # Transition_matrix
-transition matrices for real_fish encounters
-
-![alt text](https://drive.google.com/file/d/1tdngfk8dmqIrgnnzIP3Ebso6A-cCSIa-/view?usp=drive_link)
+transition matrices for real_fish encounterst
 
 
 Setup and Imports:
